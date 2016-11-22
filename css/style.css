@@ -1,0 +1,33 @@
+body {
+    font: 18px/1.5 Arial, sans-serif;
+}
+.wrapper {
+    max-width: 980px;
+    margin: 0 auto;
+}
+.heading {
+    margin: 20px 0 0;
+    text-align: center;
+}
+.list {
+    margin: 20px 0 0;
+}
+.child-list {
+	margin: 10px 0;
+	padding: 0;
+	list-style: none;
+	font-size: 16px;
+}
+.submit-btn {
+    width: 400px;
+    margin: 40px auto 0;
+    padding: 15px 0;
+    background: #CFE2F3;
+    border: 2px solid #313134;
+    border-radius: 3px;
+    text-align: center;
+    cursor: pointer;
+}
+.submit-btn:hover {
+    background: #d6e7f5;
+}
